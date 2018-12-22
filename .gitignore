@@ -1,0 +1,11 @@
+Data Processor/.classpath
+Data Processor/.project
+Data Processor/.settings/org.eclipse.core.resources.prefs
+Data Processor/.settings/org.eclipse.jdt.core.prefs
+Data Processor/bin/*
+Data Processor/target/*
+Data Analyser/.idea
+Data Analyser/constants
+Data Analyser/venv
+Data Analyser/file/.ipynb_checkpoints
+Data Analyser/file/spark-warehouse
